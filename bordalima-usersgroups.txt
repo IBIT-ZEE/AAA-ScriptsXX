@@ -1,0 +1,19 @@
+BORDALIMA-Admin		Catarino
+BORDALIMA-Admin		Eugenio
+BORDALIMA-Admin		Domingos
+BORDALIMA-Admin		Jaime
+BORDALIMA-Armaz		Agoncalves
+BORDALIMA-Armaz		Alvaro
+BORDALIMA-Armaz		Francisco
+BORDALIMA-Armaz		Pereira
+BORDALIMA-Comerc	Catarino
+BORDALIMA-Comerc	Eugenia
+BORDALIMA-Comerc	Eugenio
+BORDALIMA-Comerc	Marco
+BORDALIMA-Comerc	Ricardo
+BORDALIMA-Design	Carla
+BORDALIMA-Design	Teixeira
+BORDALIMA-Prod		Alberta
+BORDALIMA-Prod		Celeste
+
+
