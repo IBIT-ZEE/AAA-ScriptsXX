@@ -45,4 +45,3 @@ robocopy /s /xo /np /log:bak-design.log /w:1 /r:1 /tee `
 	"\\server1\d$\BORDALIMA\Design" `
 	"D:\!!!!BAKS\Server1\BORDALIMA\Design"
 
-	
